@@ -205,12 +205,6 @@ const App: React.FC = () => {
                     >
                         Boss Defeated!
                     </button>
-                    <button
-                        onClick={handleReset}
-                        className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-4 rounded-lg transition-transform transform hover:scale-105 shadow-md"
-                    >
-                        Reset Data
-                    </button>
                 </div>
             </div>
           </div>
